@@ -1,0 +1,16 @@
+/* Text and background style */
+body{
+	background-color: lightgrey;
+	font-family: verdana;
+}
+/* Section margin*/
+.sectionmargin{
+	margin: 40px;
+}
+/* container radius and color*/
+.containerfix{
+	border-radius: 25px;
+	background-color: white;
+	padding: 40px;
+}
+
